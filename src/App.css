@@ -1,0 +1,62 @@
+.rounded-100px {
+    border-radius: 100px;
+}
+
+.btn {
+    font-size: 13px;
+    border: none !important;
+    outline: none !important;
+}
+
+.w-40px {
+    width: 40px;
+}
+
+.shadow-custom {
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 1px 2px;
+}
+
+.rounded-tab {
+    width: 240px;
+    border-radius: 0 200px 200px 0;
+}
+
+.rounded-15px {
+    border-radius: 15px;
+}
+
+.fs-16px {
+    font-size: 16px;
+}
+
+.fs-12px {
+    font-size: 12px;
+}
+
+.rounded-right-15px {
+    border-radius: 15px 0 0 15px;
+}
+
+.w-90 {
+    width: 90% !important;
+}
+
+.btn:focus {
+    border: none !important;
+    outline: none !important;
+}
+
+.sideMenu {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 93vh;
+}
+
+.active-btn-bg {
+    background-color: #0d6efd14;
+}
+
+.text-justify {
+    text-align: justify;
+}
